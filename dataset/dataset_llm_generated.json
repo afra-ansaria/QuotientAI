@@ -1,0 +1,502 @@
+[
+    {
+        "input_text": "What is the capital of France?",
+        "answer": "Paris",
+        "context": "Paris is the most populous city of France."
+    },
+    {
+        "input_text": "How many continents are there?",
+        "answer": "Seven",
+        "context": "The seven continents are Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+    },
+    {
+        "input_text": "What is the largest ocean?",
+        "answer": "Pacific Ocean",
+        "context": "It covers more than 63 million square miles."
+    },
+    {
+        "input_text": "Who wrote 'To Kill a Mockingbird'?",
+        "answer": "Harper Lee",
+        "context": "The novel was published in 1960."
+    },
+    {
+        "input_text": "What is the boiling point of water?",
+        "answer": "100°C or 212°F",
+        "context": "At sea level."
+    },
+    {
+        "input_text": "What is the fastest land animal?",
+        "answer": "Cheetah",
+        "context": "Cheetahs can run up to 60-70 mph."
+    },
+    {
+        "input_text": "Who was the first president of the United States?",
+        "answer": "George Washington",
+        "context": "He served from 1789 to 1797."
+    },
+    {
+        "input_text": "What is the largest planet in our solar system?",
+        "answer": "Jupiter",
+        "context": "Jupiter has a diameter of about 142,984 km."
+    },
+    {
+        "input_text": "What is the speed of light?",
+        "answer": "299,792 km/s",
+        "context": "In vacuum."
+    },
+    {
+        "input_text": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "context": "The painting is housed in the Louvre Museum in Paris."
+    },
+    {
+        "input_text": "How many bones are in the human body?",
+        "answer": "206",
+        "context": "An adult human has 206 bones."
+    },
+    {
+        "input_text": "What is the smallest country in the world?",
+        "answer": "Vatican City",
+        "context": "It has an area of about 44 hectares."
+    },
+    {
+        "input_text": "What is the tallest mountain in the world?",
+        "answer": "Mount Everest",
+        "context": "It stands at 8,848 meters above sea level."
+    },
+    {
+        "input_text": "Who invented the telephone?",
+        "answer": "Alexander Graham Bell",
+        "context": "He was awarded the first US patent for the invention in 1876."
+    },
+    {
+        "input_text": "What is the currency of Japan?",
+        "answer": "Yen",
+        "context": "The symbol for yen is ¥."
+    },
+    {
+        "input_text": "Who discovered penicillin?",
+        "answer": "Alexander Fleming",
+        "context": "He discovered it in 1928."
+    },
+    {
+        "input_text": "How many planets are in our solar system?",
+        "answer": "Eight",
+        "context": "The planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+    },
+    {
+        "input_text": "What is the chemical symbol for gold?",
+        "answer": "Au",
+        "context": "The symbol comes from the Latin word 'aurum.'"
+    },
+    {
+        "input_text": "Who is the author of 'Harry Potter'?",
+        "answer": "J.K. Rowling",
+        "context": "The series includes seven books."
+    },
+    {
+        "input_text": "What is the longest river in the world?",
+        "answer": "Nile",
+        "context": "It is about 6,650 km long."
+    },
+    {
+        "input_text": "What is the hardest natural substance on Earth?",
+        "answer": "Diamond",
+        "context": "Diamonds are made of carbon atoms."
+    },
+    {
+        "input_text": "What is the main ingredient in guacamole?",
+        "answer": "Avocado",
+        "context": "Guacamole is a traditional Mexican dish."
+    },
+    {
+        "input_text": "What is the most spoken language in the world?",
+        "answer": "Mandarin Chinese",
+        "context": "It has over a billion native speakers."
+    },
+    {
+        "input_text": "Who is the current president of the United States?",
+        "answer": "Joe Biden",
+        "context": "He took office on January 20, 2021."
+    },
+    {
+        "input_text": "What is the largest desert in the world?",
+        "answer": "Sahara Desert",
+        "context": "It covers over 9 million square kilometers."
+    },
+    {
+        "input_text": "What is the capital of Japan?",
+        "answer": "Tokyo",
+        "context": "Tokyo is the most populous city in Japan."
+    },
+    {
+        "input_text": "What is the chemical formula for water?",
+        "answer": "H2O",
+        "context": "Each molecule of water consists of two hydrogen atoms and one oxygen atom."
+    },
+    {
+        "input_text": "Who developed the theory of relativity?",
+        "answer": "Albert Einstein",
+        "context": "The theory was published in 1905."
+    },
+    {
+        "input_text": "What is the largest mammal?",
+        "answer": "Blue whale",
+        "context": "Blue whales can weigh up to 200 tons."
+    },
+    {
+        "input_text": "Who was the first man to walk on the moon?",
+        "answer": "Neil Armstrong",
+        "context": "He walked on the moon on July 20, 1969."
+    },
+    {
+        "input_text": "What is the smallest unit of life?",
+        "answer": "Cell",
+        "context": "Cells are the basic building blocks of all living organisms."
+    },
+    {
+        "input_text": "What is the largest organ in the human body?",
+        "answer": "Skin",
+        "context": "The skin protects the body from various external factors."
+    },
+    {
+        "input_text": "What is the capital of Italy?",
+        "answer": "Rome",
+        "context": "Rome is known for its nearly 3,000 years of globally influential art, architecture, and culture."
+    },
+    {
+        "input_text": "What is the main ingredient in hummus?",
+        "answer": "Chickpeas",
+        "context": "Hummus is a popular Middle Eastern dip."
+    },
+    {
+        "input_text": "Who painted the Sistine Chapel ceiling?",
+        "answer": "Michelangelo",
+        "context": "The ceiling was painted between 1508 and 1512."
+    },
+    {
+        "input_text": "What is the currency of the United Kingdom?",
+        "answer": "Pound sterling",
+        "context": "The symbol for pound sterling is £."
+    },
+    {
+        "input_text": "Who wrote 'Pride and Prejudice'?",
+        "answer": "Jane Austen",
+        "context": "The novel was first published in 1813."
+    },
+    {
+        "input_text": "What is the main gas found in the air we breathe?",
+        "answer": "Nitrogen",
+        "context": "Nitrogen makes up about 78% of the Earth's atmosphere."
+    },
+    {
+        "input_text": "What is the capital of Australia?",
+        "answer": "Canberra",
+        "context": "Canberra is located in the southeastern part of the country."
+    },
+    {
+        "input_text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answer": "Amelia Earhart",
+        "context": "She made the flight in 1932."
+    },
+    {
+        "input_text": "What is the most abundant element in the universe?",
+        "answer": "Hydrogen",
+        "context": "Hydrogen makes up about 75% of the universe's elemental mass."
+    },
+    {
+        "input_text": "What is the largest island in the world?",
+        "answer": "Greenland",
+        "context": "Greenland is an autonomous territory within the Kingdom of Denmark."
+    },
+    {
+        "input_text": "Who wrote 'The Great Gatsby'?",
+        "answer": "F. Scott Fitzgerald",
+        "context": "The novel was published in 1925."
+    },
+    {
+        "input_text": "What is the chemical symbol for sodium?",
+        "answer": "Na",
+        "context": "The symbol comes from the Latin word 'natrium.'"
+    },
+    {
+        "input_text": "What is the capital of Canada?",
+        "answer": "Ottawa",
+        "context": "Ottawa is located in the province of Ontario."
+    },
+    {
+        "input_text": "Who discovered America?",
+        "answer": "Christopher Columbus",
+        "context": "He arrived in the Americas in 1492."
+    },
+    {
+        "input_text": "What is the smallest planet in our solar system?",
+        "answer": "Mercury",
+        "context": "Mercury is also the closest planet to the sun."
+    },
+    {
+        "input_text": "What is the tallest building in the world?",
+        "answer": "Burj Khalifa",
+        "context": "Located in Dubai, it stands at 828 meters tall."
+    },
+    {
+        "input_text": "Who wrote '1984'?",
+        "answer": "George Orwell",
+        "context": "The novel was published in 1949."
+    },
+    {
+        "input_text": "What is the main component of the sun?",
+        "answer": "Hydrogen",
+        "context": "Hydrogen is the primary fuel for the sun's nuclear fusion."
+    },
+    {
+        "input_text": "What is the capital of Germany?",
+        "answer": "Berlin",
+        "context": "Berlin is Germany's largest city."
+    },
+    {
+        "input_text": "What is the largest organ inside the human body?",
+        "answer": "Liver",
+        "context": "The liver performs over 500 vital functions."
+    },
+    {
+        "input_text": "Who invented the light bulb?",
+        "answer": "Thomas Edison",
+        "context": "Edison is credited with inventing the first commercially practical incandescent light."
+    },
+    {
+        "input_text": "What is the chemical symbol for iron?",
+        "answer": "Fe",
+        "context": "The symbol comes from the Latin word 'ferrum.'"
+    },
+    {
+        "input_text": "What is the capital of Russia?",
+        "answer": "Moscow",
+        "context": "Moscow is the largest city in Russia."
+    },
+    {
+        "input_text": "Who wrote 'Romeo and Juliet'?",
+        "answer": "William Shakespeare",
+        "context": "The play was written in the early stages of his career."
+    },
+    {
+        "input_text": "What is the primary language spoken in Brazil?",
+        "answer": "Portuguese",
+        "context": "Brazil is the only Portuguese-speaking country in South America."
+    },
+    {
+        "input_text": "What is the largest bone in the human body?",
+        "answer": "Femur",
+        "context": "The femur is located in the thigh."
+    },
+    {
+        "input_text": "Who was the first human to journey into outer space?",
+        "answer": "Yuri Gagarin",
+        "context": "He orbited Earth on April 12, 1961."
+    },
+    {
+        "input_text": "What is the primary ingredient in bread?",
+        "answer": "Flour",
+        "context": "Bread is made from flour, water, and usually yeast or another leavening agent."
+    },
+    {
+        "input_text": "What is the main ingredient in sushi?",
+        "answer": "Rice",
+        "context": "Sushi is often made with vinegared rice and various other ingredients like seafood."
+    },
+    {
+        "input_text": "What is the capital of China?",
+        "answer": "Beijing",
+        "context": "Beijing is the second most populous city in China."
+    },
+    {
+        "input_text": "Who invented the airplane?",
+        "answer": "Wright brothers",
+        "context": "Orville and Wilbur Wright made their first successful flight in 1903."
+    },
+    {
+        "input_text": "What is the main ingredient in chocolate?",
+        "answer": "Cocoa",
+        "context": "Cocoa is derived from cocoa beans."
+    },
+    {
+        "input_text": "What is the most common blood type?",
+        "answer": "O+",
+        "context": "O+ is the most common blood type among humans."
+    },
+    {
+        "input_text": "Who wrote 'Moby-Dick'?",
+        "answer": "Herman Melville",
+        "context": "The novel was published in 1851."
+    },
+    {
+        "input_text": "What is the capital of India?",
+        "answer": "New Delhi",
+        "context": "New Delhi is part of the larger metropolis of Delhi."
+    },
+    {
+        "input_text": "What is the largest fish in the ocean?",
+        "answer": "Whale shark",
+        "context": "Whale sharks can grow up to 12 meters long."
+    },
+    {
+        "input_text": "What is the primary ingredient in beer?",
+        "answer": "Barley",
+        "context": "Beer is typically made from barley, water, hops, and yeast."
+    },
+    {
+        "input_text": "What is the chemical symbol for helium?",
+        "answer": "He",
+        "context": "Helium is the second lightest and second most abundant element in the observable universe."
+    },
+    {
+        "input_text": "What is the capital of Spain?",
+        "answer": "Madrid",
+        "context": "Madrid is the third-largest city in the European Union."
+    },
+    {
+        "input_text": "Who discovered the law of gravity?",
+        "answer": "Isaac Newton",
+        "context": "Newton formulated the laws of motion and universal gravitation."
+    },
+    {
+        "input_text": "What is the primary ingredient in pasta?",
+        "answer": "Durum wheat",
+        "context": "Pasta is typically made from durum wheat semolina."
+    },
+    {
+        "input_text": "What is the most abundant gas in Earth's atmosphere?",
+        "answer": "Nitrogen",
+        "context": "Nitrogen makes up about 78% of the Earth's atmosphere."
+    },
+    {
+        "input_text": "Who wrote 'The Odyssey'?",
+        "answer": "Homer",
+        "context": "The Odyssey is one of two major ancient Greek epic poems attributed to Homer."
+    },
+    {
+        "input_text": "What is the capital of Mexico?",
+        "answer": "Mexico City",
+        "context": "Mexico City is the largest city in Mexico."
+    },
+    {
+        "input_text": "Who developed the theory of evolution?",
+        "answer": "Charles Darwin",
+        "context": "Darwin published 'On the Origin of Species' in 1859."
+    },
+    {
+        "input_text": "What is the primary ingredient in vodka?",
+        "answer": "Grains or potatoes",
+        "context": "Vodka is typically distilled from grains or potatoes."
+    },
+    {
+        "input_text": "What is the chemical symbol for carbon?",
+        "answer": "C",
+        "context": "Carbon is the fourth most abundant element in the universe by mass."
+    },
+    {
+        "input_text": "What is the capital of South Korea?",
+        "answer": "Seoul",
+        "context": "Seoul is the largest metropolis in South Korea."
+    },
+    {
+        "input_text": "Who discovered radioactivity?",
+        "answer": "Henri Becquerel",
+        "context": "He discovered radioactivity in 1896."
+    },
+    {
+        "input_text": "What is the main ingredient in butter?",
+        "answer": "Cream",
+        "context": "Butter is made from churning cream."
+    },
+    {
+        "input_text": "What is the most common element in the human body?",
+        "answer": "Oxygen",
+        "context": "Oxygen makes up about 65% of the human body by mass."
+    },
+    {
+        "input_text": "Who wrote 'War and Peace'?",
+        "answer": "Leo Tolstoy",
+        "context": "The novel was first published in 1869."
+    },
+    {
+        "input_text": "What is the capital of Egypt?",
+        "answer": "Cairo",
+        "context": "Cairo is the largest city in the Arab world."
+    },
+    {
+        "input_text": "What is the largest animal on Earth?",
+        "answer": "Blue whale",
+        "context": "Blue whales can grow up to 30 meters in length."
+    },
+    {
+        "input_text": "What is the primary ingredient in cheese?",
+        "answer": "Milk",
+        "context": "Cheese is made from curdled milk."
+    },
+    {
+        "input_text": "What is the chemical symbol for silver?",
+        "answer": "Ag",
+        "context": "The symbol comes from the Latin word 'argentum.'"
+    },
+    {
+        "input_text": "What is the capital of Brazil?",
+        "answer": "Brasília",
+        "context": "Brasília was officially inaugurated as the capital in 1960."
+    },
+    {
+        "input_text": "Who wrote 'The Catcher in the Rye'?",
+        "answer": "J.D. Salinger",
+        "context": "The novel was published in 1951."
+    },
+    {
+        "input_text": "What is the main ingredient in pizza dough?",
+        "answer": "Flour",
+        "context": "Pizza dough is typically made from flour, water, yeast, and salt."
+    },
+    {
+            "input_text": "What is the main ingredient in ice cream?",
+            "answer": "Milk",
+            "context": "Ice cream is made from milk, cream, sugar, and flavorings."
+        },
+        {
+            "input_text": "Who painted 'Starry Night'?",
+            "answer": "Vincent van Gogh",
+            "context": "The painting was created in 1889."
+        },
+        {
+            "input_text": "What is the largest continent?",
+            "answer": "Asia",
+            "context": "Asia covers about 30% of the world's land area."
+        },
+        {
+            "input_text": "What is the chemical symbol for potassium?",
+            "answer": "K",
+            "context": "The symbol comes from the Latin word 'kalium.'"
+        },
+        {
+            "input_text": "What is the primary ingredient in tofu?",
+            "answer": "Soybeans",
+            "context": "Tofu is made by coagulating soy milk and then pressing the resulting curds."
+        },
+        {
+            "input_text": "Who discovered the electron?",
+            "answer": "J.J. Thomson",
+            "context": "He discovered the electron in 1897."
+        },
+        {
+            "input_text": "What is the capital of Greece?",
+            "answer": "Athens",
+            "context": "Athens is one of the world's oldest cities."
+        },
+        {
+            "input_text": "What is the most populous country in the world?",
+            "answer": "China",
+            "context": "China has a population of over 1.4 billion people."
+        },
+        {
+            "input_text": "What is the capital of Japan?",
+            "answer": "Tokyo",
+            "context": "Tokyo is the most populous city in Japan."
+        }
+]
